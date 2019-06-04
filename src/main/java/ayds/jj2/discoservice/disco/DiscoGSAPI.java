@@ -1,4 +1,4 @@
-package ayds.discoService.external.disco;
+package ayds.jj2.discoservice.disco;
 
 
 import retrofit2.Call;

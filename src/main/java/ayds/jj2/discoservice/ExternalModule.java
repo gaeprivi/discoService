@@ -1,6 +1,6 @@
-package ayds.discoService.external;
+package ayds.jj2.discoservice;
 
-import ayds.discoService.external.disco.DiscoModule;
+import ayds.jj2.discoservice.disco.DiscoModule;
 
 public class ExternalModule {
 

@@ -1,8 +1,8 @@
-package ayds.discoService.external.disco;
+package ayds.jj2.discoservice.disco;
 
-import ayds.discoService.external.Album;
-import ayds.discoService.external.ExternalService;
-import ayds.discoService.external.DiscoSong;
+import ayds.jj2.discoservice.Album;
+import ayds.jj2.discoservice.ExternalService;
+import ayds.jj2.discoservice.DiscoSong;
 import retrofit2.Response;
 
 class DiscoService implements ExternalService {

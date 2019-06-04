@@ -1,6 +1,6 @@
-package ayds.discoService.external.disco;
+package ayds.jj2.discoservice.disco;
 
-import ayds.discoService.external.Album;
+import ayds.jj2.discoservice.Album;
 import com.google.gson.Gson;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;

@@ -1,6 +1,6 @@
-package ayds.discoService.external.disco;
+package ayds.jj2.discoservice.disco;
 
-import ayds.discoService.external.Album;
+import ayds.jj2.discoservice.Album;
 
 public interface DiscoGSToAlbumResolver {
     Album getAlbumFromExternalService(String body);

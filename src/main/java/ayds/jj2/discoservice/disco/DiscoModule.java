@@ -1,7 +1,7 @@
-package ayds.discoService.external.disco;
+package ayds.jj2.discoservice.disco;
 
 
-import ayds.discoService.external.ExternalService;
+import ayds.jj2.discoservice.ExternalService;
 import retrofit2.Retrofit;
 import retrofit2.converter.scalars.ScalarsConverterFactory;
 

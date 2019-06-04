@@ -1,4 +1,4 @@
-package ayds.discoService.external;
+package ayds.jj2.discoservice;
 
 public class Album {
 
